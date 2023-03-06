@@ -1,0 +1,11 @@
+$color: skyblue;
+$primaryColor: red;
+$primary-bg-color:#FDEBED;
+$primary-font-color:#b57ffa;
+:export {
+    color: $color;
+    primary-color: $primaryColor;
+    primary-bg-color: $primary-bg-color;
+    primary-font-color: $primary-font-color
+}
+
